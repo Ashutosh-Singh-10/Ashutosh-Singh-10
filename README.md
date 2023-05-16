@@ -1,5 +1,5 @@
 ### Hi there 👋
-![my-passport-photo](https://github.com/Ashutosh-Singh-10/Ashutosh-Singh-10/assets/83817283/7c9b5c3d-a69b-401e-a1a5-2fd1d3221884)
+![linBG](https://github.com/Ashutosh-Singh-10/Ashutosh-Singh-10/assets/83817283/f9a12685-061b-4cb3-93af-47523c3bfd19)
 
 <!--
 **Ashutosh-Singh-10/Ashutosh-Singh-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
